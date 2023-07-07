@@ -17,7 +17,7 @@ This project implements a Discord bot using Python and the `discord.py` library.
     ```mkdir myenv
     cd myenv
     python -m venv .
-    source bin/activate```
+    source bin/activate
 4. do `pip install discord.py`.
 5. Invite the bot to your Discord server and ensure it has the necessary permissions.
 6. [IMPORTANT] Add BOT_TOKEN and CHANNEL_ID in the file.
