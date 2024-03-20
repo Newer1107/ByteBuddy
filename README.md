@@ -1,4 +1,4 @@
-# Discord Shell Bot
+# ByteBuddy
 
 ## Overview
 This project implements a Discord bot using Python and the `discord.py` library. The bot acts as a command execution and shell interaction tool within a designated Discord text channel. Users can execute commands, navigate the file system, and receive command output directly in the Discord channel.
